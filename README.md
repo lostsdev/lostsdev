@@ -1,5 +1,8 @@
 - 👋 lostslvtt
 - 👀 skills ->
+- [![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+
+
 - ![arch](https://github.com/tandpfun/skill-icons/blob/Arch-Dark.svg?raw=true)
 - ![java](https://github.com/tandpfun/skill-icons/blob/Java-Dark.svg?raw=true)
 - ![php](https://github.com/tandpfun/skill-icons/blob/PHP-Dark.svg?raw=true)
