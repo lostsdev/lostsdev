@@ -1,3 +1,8 @@
 - 👋 lostslvtt
 - 👀 skills ->
-- 
+- ![arch](https://github.com/tandpfun/skill-icons/Arch-Dark.svg?raw=true)
+- ![java](https://github.com/tandpfun/skill-icons/Java-Dark.svg?raw=true)
+- ![php](https://github.com/tandpfun/skill-icons/PHP-Dark.svg?raw=true)
+- ![docker](https://github.com/tandpfun/skill-icons/Docker.svg?raw=true)
+- ![html](https://github.com/tandpfun/skill-icons/HTML.svg?raw=true)
+- ![css](https://github.com/tandpfun/skill-icons/CSS.svg?raw=true)
